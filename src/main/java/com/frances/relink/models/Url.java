@@ -24,33 +24,4 @@ public class Url {
     public Url(String longUrl) {
         this.longUrl = longUrl;
     }
-//
-//    public Long getId() {
-//        return id;
-//    }
-//
-//    public void setId(Long id) {
-//        this.id = id;
-//    }
-//
-//    public String getLongUrl() {
-//        return longUrl;
-//    }
-//
-//    public void setLongUrl(String longUrl) {
-//        this.longUrl = longUrl;
-//    }
-//
-//    public String getShortUrl() {
-//        return shortUrl;
-//    }
-//
-//    public void setShortUrl(String shortUrl) {
-//        this.shortUrl = shortUrl;
-//    }
-//
-//    public String toString(){//overriding the toString() method
-//        return "id:"+id+" | longUrl："+longUrl+" | shortUrl:"+shortUrl;
-//    }
-
 }
