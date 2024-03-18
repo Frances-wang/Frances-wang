@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Frances-wang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Network Flow Theory, Game Theory, Data Types and Structures, Algorithm Design and Data Abstraction.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in optimization and software development
+- 🌱 I’m currently learning Network Flow Theory, Game Theory, Data Types and Structures, Algorithm Design and Data Abstraction
+- 📫 Reach me at x2322wan@uwaterloo.ca
 
 <!---
 Frances-wang/Frances-wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
